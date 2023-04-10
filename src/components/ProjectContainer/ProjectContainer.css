@@ -38,6 +38,8 @@
 
 .project__description {
   margin-top: 1em;
+      height: 50px;
+    overflow: hidden;
 }
 
 .project__stack {
