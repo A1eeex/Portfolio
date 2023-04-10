@@ -23,23 +23,26 @@ const about = {
 
 const projects = [
   {
-    name: 'Project 1',
+    name: 'Car service',
+    class_name: 'car_service',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    stack: ['HTML', 'CSS', 'Slik'],
+    sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/Car_Service',
+    livePreview: 'https://a1eeex.github.io/Layouts/Car_Service',
   },
   {
-    name: 'Project 2',
+    name: 'Bike store',
+    class_name: 'bike_store',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Bicycle shop product card',
+    stack: ['HTML', 'CSS', 'Bootstrap'],
+    sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
+    livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
   },
   {
-    name: 'Project 3',
+    name: 'pr3',
+    class_name: 'pr',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],

@@ -5,7 +5,33 @@
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
 }
-
+.project_img{
+  margin-bottom: 20px;
+}
+.car_service{
+  height: 300px;
+  width: 100%;
+  background-image: url("../../img/1car_service_title_bg.png");
+  background-color: #cccccc00; /* Used if the image is unavailable */
+  background-position: top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.car_service:hover{
+  background-image: url("../../img/2car_service_title_bg.png");
+}
+.bike_store{
+  height: 300px;
+  width: 100%;
+  background-image: url("../../img/bike_store1.png");
+  background-color: #cccccc00; 
+  background-position: top; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+ .bike_store:hover{
+   background-image: url("../../img/bike_store2.png"); 
+} 
 .project:hover {
   transform: translateY(-7px);
 }

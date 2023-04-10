@@ -21,8 +21,14 @@
   margin-top: 2.4em;
 }
 
+.about .link--resume {
+  height: 50px;
+}
 .about .link--icon {
   margin-right: 0.8em;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .about .btn--outline {

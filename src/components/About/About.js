@@ -23,6 +23,7 @@ const About = () => {
             href={resume}
             target="_blank"
             rel="noreferrer"
+            className='link--resume'
           >
             <span type='button' className='btn btn--outline'>
               Resume
