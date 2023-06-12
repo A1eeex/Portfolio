@@ -14,7 +14,7 @@ const about = {
     Having a positive outlook and am always willing to learn new traits and
     expand my skills. Able to stretch the personal and work boundaries to
     help your company stand out.`,
-  resume: 'https://drive.google.com/file/d/1z_bZEm92-6cPT2CTtmIGwgEKGbkN1-OI/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1NNcVYcDgKrCEcQwU6Qq934b1FJGVNSMy/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/oleksandr-petrovskyi-6b1010196/',
     github: 'https://github.com/A1eeex',
@@ -26,7 +26,7 @@ const projects = [
     name: 'Car service',
     class_name: 'car_service',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'To book car repairs and maintenance services"',
     stack: ['HTML', 'CSS', 'Slik'],
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/Car_Service',
     livePreview: 'https://a1eeex.github.io/Layouts/Car_Service',
@@ -41,14 +41,23 @@ const projects = [
     livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
   },
   {
-    name: 'pr3',
-    class_name: 'pr',
+    name: 'Rehabilitacja Medyczna Praktika',
+    class_name: 'rehabilitacja_praktika',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Fizykoterapia, Terapia manualna, Kinezyterapia, Masaż leczniczy, Rehabilitacja w domu pacjenta',
+    stack: ['Next.js', 'Tailwin'],
+    sourceCode: 'https://github.com/A1eeex/praktika_rehabilitacja',
+    livePreview: 'https://github.com/A1eeex/praktika_rehabilitacja',
   },
+  // {
+  //   name: 'PDR_Zbarzh',
+  //   class_name: 'pdr_zbarzh',
+  //   description:
+  //     'Amet1 asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+  //   stack: ['React', 'CSS Modules', 'React'],
+  //   sourceCode: 'https://github.com/A1eeex/PDR_Zbarazh_React',
+  //   livePreview: 'https://a1eeex.github.io/PDR_Zbarazh_React/',
+  // },
 ]
 
 const skills = [
@@ -57,10 +66,11 @@ const skills = [
   'CSS',
   'JavaScript',
   'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
+  'React.js',
+  'Next.js',
+  'Less',
   'Material UI',
+  'Tailwindcss',
   'Git',
 ]
 
