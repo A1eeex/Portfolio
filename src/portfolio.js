@@ -23,6 +23,15 @@ const about = {
 
 const projects = [
   {
+    name: 'Medical Rehabilitation',
+    class_name: 'rehabilitacja_praktika',
+    description:
+      'Physical therapy, Manual therapy, Kinesitherapy, Therapeutic massage, Rehabilitation at the patient\'s home',
+    stack: ['Next.js', 'Tailwin'],
+    sourceCode: 'https://github.com/A1eeex/praktika_rehabilitacja',
+    livePreview: 'https://praktika-rehabilitacja.vercel.app/',
+  },
+  {
     name: 'Car service',
     class_name: 'car_service',
     description:
@@ -40,15 +49,7 @@ const projects = [
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
     livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
   },
-  {
-    name: 'Rehabilitacja Medyczna Praktika',
-    class_name: 'rehabilitacja_praktika',
-    description:
-      'Fizykoterapia, Terapia manualna, Kinezyterapia, Masaż leczniczy, Rehabilitacja w domu pacjenta',
-    stack: ['Next.js', 'Tailwin'],
-    sourceCode: 'https://github.com/A1eeex/praktika_rehabilitacja',
-    livePreview: 'https://github.com/A1eeex/praktika_rehabilitacja',
-  },
+
   // {
   //   name: 'PDR_Zbarzh',
   //   class_name: 'pdr_zbarzh',

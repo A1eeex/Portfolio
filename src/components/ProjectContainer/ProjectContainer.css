@@ -48,14 +48,14 @@
 .rehabilitacja_praktika{
   height: 300px;
   width: 100%;
-  background-image: url("../../img/page_under_development.png");
+  background-image: url("../../img/1rehabilitacja.png");
   background-color: #cccccc00; 
   background-position: top; 
   background-repeat: no-repeat; 
   background-size: cover; 
 }
  .rehabilitacja_praktika:hover{
-   background-image: url("../../img/page_сoming_soon.png"); 
+   background-image: url("../../img/2rehabilitacja.png"); 
 } 
 .project:hover {
   transform: translateY(-7px);
