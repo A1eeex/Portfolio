@@ -9,6 +9,18 @@
 .project_img{
   margin-bottom: 20px;
 }
+.rehabilitacja_praktika{
+  height: 300px;
+  width: 100%;
+  background-image: url("../../img/1rehabilitacja.png");
+  background-color: #cccccc00; 
+  background-position: top; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+ .rehabilitacja_praktika:hover{
+   background-image: url("../../img/2rehabilitacja.png"); 
+} 
 .car_service{
   height: 300px;
   width: 100%;
@@ -45,17 +57,18 @@
  .bike_store:hover{
    background-image: url("../../img/bike_store2.png"); 
 } 
-.rehabilitacja_praktika{
+
+.fullscreen_slider{
   height: 300px;
   width: 100%;
-  background-image: url("../../img/1rehabilitacja.png");
+  background-image: url("../../img/1fullscreen_slider.png");
   background-color: #cccccc00; 
   background-position: top; 
   background-repeat: no-repeat; 
   background-size: cover; 
 }
- .rehabilitacja_praktika:hover{
-   background-image: url("../../img/2rehabilitacja.png"); 
+ .fullscreen_slider:hover{
+   background-image: url("../../img/2fullscreen_slider.png"); 
 } 
 .project:hover {
   transform: translateY(-7px);

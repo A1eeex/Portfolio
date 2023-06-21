@@ -49,6 +49,15 @@ const projects = [
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
     livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
   },
+  {
+    name: 'Fullscreen slider',
+    class_name: 'fullscreen_slider',
+    description:
+      'slider',
+    stack: ['HTML', 'CSS', 'JS'],
+    sourceCode: 'https://github.com/A1eeex/atoms/tree/master/03-slider',
+    livePreview: 'https://a1eeex.github.io/atoms/03-slider/',
+  },
 
   // {
   //   name: 'PDR_Zbarzh',
