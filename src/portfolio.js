@@ -27,7 +27,7 @@ const projects = [
     class_name: 'rehabilitacja_praktika',
     description:
       'Physical therapy, Manual therapy, Kinesitherapy, Therapeutic massage, Rehabilitation at the patient\'s home',
-    stack: ['Next.js', 'Tailwin'],
+    stack: ['Next.js', 'Tailwind'],
     sourceCode: 'https://github.com/A1eeex/praktika_rehabilitacja',
     livePreview: 'https://praktika-rehabilitacja.vercel.app/',
   },
