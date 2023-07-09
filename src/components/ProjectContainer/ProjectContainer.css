@@ -70,6 +70,18 @@
  .fullscreen_slider:hover{
    background-image: url("../../img/2fullscreen_slider.png"); 
 } 
+.yoga{
+  height: 300px;
+  width: 100%;
+  background-image: url("../../img/1yoga_bg.png");
+  background-color: #cccccc00; 
+  background-position: top; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+ .yoga:hover{
+   background-image: url("../../img/2yoga_bg.png"); 
+} 
 .project:hover {
   transform: translateY(-7px);
 }

@@ -41,13 +41,13 @@ const projects = [
     livePreview: 'https://a1eeex.github.io/Layouts/Car_Service',
   },
   {
-    name: 'Bike store',
-    class_name: 'bike_store',
+    name: 'Yoga',
+    class_name: 'yoga',
     description:
-      'Bicycle shop product card',
-    stack: ['HTML', 'CSS', 'Bootstrap'],
-    sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
-    livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
+      'Fitness, yoga, relax',
+    stack: ['HTML', 'CSS', 'JS'],
+    sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/Yoga',
+    livePreview: 'https://a1eeex.github.io/Layouts/Yoga/',
   },
   {
     name: 'Fullscreen slider',
@@ -58,6 +58,16 @@ const projects = [
     sourceCode: 'https://github.com/A1eeex/atoms/tree/master/03-slider',
     livePreview: 'https://a1eeex.github.io/atoms/03-slider/',
   },
+  {
+    name: 'Bike store',
+    class_name: 'bike_store',
+    description:
+      'Bicycle shop product card',
+    stack: ['HTML', 'CSS', 'Bootstrap'],
+    sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
+    livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
+  },
+
 
   // {
   //   name: 'PDR_Zbarzh',
