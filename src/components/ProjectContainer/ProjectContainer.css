@@ -82,6 +82,16 @@
  .yoga:hover{
    background-image: url("../../img/2yoga_bg.png"); 
 } 
+.redux_todo{
+  height: 300px;
+  width: 100%;
+  background-image: url("../../img/1react-redux-todo.png");
+  background-color: #cccccc00; 
+  background-position: top; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
 .project:hover {
   transform: translateY(-7px);
 }

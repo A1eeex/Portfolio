@@ -7,14 +7,14 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Oleksandr Petrovskyi',
   role: ' Junior/Trainee Frontend developer',
-  description:
-    `Extremely passionate about software architecture and design combined
+  description: `Extremely passionate about software architecture and design combined
     with sensitivity to serve the needs of the business balanced with the
     delivery of high-quality solutions.
     Having a positive outlook and am always willing to learn new traits and
     expand my skills. Able to stretch the personal and work boundaries to
     help your company stand out.`,
-  resume: 'https://drive.google.com/file/d/1NNcVYcDgKrCEcQwU6Qq934b1FJGVNSMy/view',
+  resume:
+    'https://drive.google.com/file/d/1NNcVYcDgKrCEcQwU6Qq934b1FJGVNSMy/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/oleksandr-petrovskyi-6b1010196/',
     github: 'https://github.com/A1eeex',
@@ -26,16 +26,23 @@ const projects = [
     name: 'Medical Rehabilitation',
     class_name: 'rehabilitacja_praktika',
     description:
-      'Physical therapy, Manual therapy, Kinesitherapy, Therapeutic massage, Rehabilitation at the patient\'s home',
+      "Physical therapy, Manual therapy, Kinesitherapy, Therapeutic massage, Rehabilitation at the patient's home",
     stack: ['Next.js', 'Tailwind'],
     sourceCode: 'https://github.com/A1eeex/praktika_rehabilitacja',
     livePreview: 'https://praktika-rehabilitacja.vercel.app/',
   },
   {
+    name: 'React-redux todo',
+    class_name: 'redux_todo',
+    description: 'Todo',
+    stack: ['React', 'Redux', 'Tailwind'],
+    sourceCode: 'https://github.com/A1eeex/todo-redux',
+    livePreview: 'https://a1eeex.github.io/todo-redux/',
+  },
+  {
     name: 'Car service',
     class_name: 'car_service',
-    description:
-      'To book car repairs and maintenance services"',
+    description: 'To book car repairs and maintenance services"',
     stack: ['HTML', 'CSS', 'Slik'],
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/Car_Service',
     livePreview: 'https://a1eeex.github.io/Layouts/Car_Service',
@@ -43,31 +50,27 @@ const projects = [
   {
     name: 'Yoga',
     class_name: 'yoga',
-    description:
-      'Fitness, yoga, relax',
+    description: 'Fitness, yoga, relax',
     stack: ['HTML', 'CSS', 'JS'],
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/Yoga',
     livePreview: 'https://a1eeex.github.io/Layouts/Yoga/',
   },
   {
-    name: 'Fullscreen slider',
-    class_name: 'fullscreen_slider',
-    description:
-      'slider',
-    stack: ['HTML', 'CSS', 'JS'],
-    sourceCode: 'https://github.com/A1eeex/atoms/tree/master/03-slider',
-    livePreview: 'https://a1eeex.github.io/atoms/03-slider/',
-  },
-  {
     name: 'Bike store',
     class_name: 'bike_store',
-    description:
-      'Bicycle shop product card',
+    description: 'Bicycle shop product card',
     stack: ['HTML', 'CSS', 'Bootstrap'],
     sourceCode: 'https://github.com/A1eeex/Layouts/tree/master/bike_store',
     livePreview: 'https://a1eeex.github.io/Layouts/bike_store/',
   },
-
+  {
+    name: 'Fullscreen slider',
+    class_name: 'fullscreen_slider',
+    description: 'slider',
+    stack: ['HTML', 'CSS', 'JS'],
+    sourceCode: 'https://github.com/A1eeex/atoms/tree/master/03-slider',
+    livePreview: 'https://a1eeex.github.io/atoms/03-slider/',
+  },
 
   // {
   //   name: 'PDR_Zbarzh',
@@ -81,7 +84,6 @@ const projects = [
 ]
 
 const skills = [
-
   'HTML',
   'CSS',
   'JavaScript',
