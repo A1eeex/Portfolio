@@ -14,7 +14,7 @@ const about = {
     expand my skills. Able to stretch the personal and work boundaries to
     help your company stand out.`,
   resume:
-    'https://drive.google.com/file/d/1NNcVYcDgKrCEcQwU6Qq934b1FJGVNSMy/view',
+    'https://drive.google.com/file/d/1j6xejhv0oZAVYIDQ9qXDdJl9F3f-ewru/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/oleksandr-petrovskyi-6b1010196/',
     github: 'https://github.com/A1eeex',
