@@ -6,7 +6,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Oleksandr Petrovskyi',
-  role: ' Junior/Trainee Frontend developer',
+  role: 'Frontend developer',
   description: `Extremely passionate about software architecture and design combined
     with sensitivity to serve the needs of the business balanced with the
     delivery of high-quality solutions.
@@ -14,7 +14,7 @@ const about = {
     expand my skills. Able to stretch the personal and work boundaries to
     help your company stand out.`,
   resume:
-    'https://drive.google.com/file/d/1j6xejhv0oZAVYIDQ9qXDdJl9F3f-ewru/view',
+    'https://drive.google.com/file/d/1M0gbO7h1dsTTl-Zx5GuleTmrLYRBAaBt/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/oleksandr-petrovskyi-6b1010196/',
     github: 'https://github.com/A1eeex',
@@ -22,6 +22,15 @@ const about = {
 }
 
 const projects = [
+  {
+    name: 'Apple Gadgets',
+    class_name: 'apple_gadgets',
+    description:
+      "Apple Gadgets for a company that sells mobile phones",
+    stack: ['React-js','Typescript','Node.js','SCSS','CSS modules','react-slick','REST API','Fetch'],
+    sourceCode: 'https://github.com/orgs/fe-aug23-team-disband/repositories',
+    livePreview: 'https://fe-aug23-team-disband.github.io/phone_catalog/',
+  },
   {
     name: 'Medical Rehabilitation',
     class_name: 'rehabilitacja_praktika',
