@@ -50,8 +50,8 @@
   height: 300px;
   width: 100%;
   background-image: url('../../img/1car_service_title_bg.png');
-  background-color: #cccccc00; 
-  background-position: top; 
+  background-color: #cccccc00;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -95,6 +95,7 @@
 .fullscreen_slider:hover {
   background-image: url('../../img/2fullscreen_slider.png');
 }
+
 .yoga {
   height: 300px;
   width: 100%;
@@ -104,9 +105,25 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .yoga:hover {
   background-image: url('../../img/2yoga_bg.png');
 }
+
+.mogo_layout {
+  height: 300px;
+  width: 100%;
+  background-image: url('../../img/Mogo_layout_1.0.png');
+  background-color: #cccccc00;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mogo_layout:hover {
+  background-image: url('../../img/Mogo_layout_1.1.png');
+}
+
 .redux_todo {
   height: 300px;
   width: 100%;
