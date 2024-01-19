@@ -49,6 +49,14 @@ const projects = [
     livePreview: 'https://praktika-rehabilitacja.vercel.app/',
   },
   {
+    name: 'User-list',
+    class_name: 'vue-user-list',
+    description: 'A web application for managing a user list, providing functionality for user deletion, detailed viewing, and pagination of results.',
+    stack: ['VUE', 'SCSS'],
+    sourceCode: 'https://github.com/A1eeex/vue-user-list',
+    livePreview: 'https://a1eeex.github.io/vue-user-list/',
+  },
+  {
     name: 'MyBike',
     class_name: 'myBike',
     description: 'Your cycling paradise where you will find a huge selection of the best bike models',
