@@ -23,11 +23,31 @@ const about = {
 
 const projects = [
   {
+    name: 'Task Trek',
+    class_name: 'todos_1',
+    description:
+      'Universal tool for effective task management and achieving set goals, providing simple and convenient management of your duties and progress',
+    stack: [
+      'React-js',
+      'Typescript',
+      'Node.js',
+      'SCSS',
+      'CSS modules',
+      'react-slick',
+      'REST API',
+      'Fetch',
+    ],
+    apiCode: 'https://github.com/A1eeex/todo_1.0_api',
+    sourceCode: 'https://github.com/A1eeex/todo_1.0',
+    livePreview: 'https://a1eeex.github.io/todo_1.0/',
+  },
+  {
     name: 'Apple Gadgets',
     class_name: 'apple_gadgets',
     description: 'Apple Gadgets for a company that sells mobile phones',
     stack: [
       'React-js',
+      'Redux',
       'Typescript',
       'Node.js',
       'SCSS',
@@ -51,7 +71,8 @@ const projects = [
   {
     name: 'User-list',
     class_name: 'vue-user-list',
-    description: 'A web application for managing a user list, providing functionality for user deletion, detailed viewing, and pagination of results.',
+    description:
+      'A web application for managing a user list, providing functionality for user deletion, detailed viewing, and pagination of results.',
     stack: ['VUE', 'SCSS'],
     sourceCode: 'https://github.com/A1eeex/vue-user-list',
     livePreview: 'https://a1eeex.github.io/vue-user-list/',
@@ -59,7 +80,8 @@ const projects = [
   {
     name: 'MyBike',
     class_name: 'myBike',
-    description: 'Your cycling paradise where you will find a huge selection of the best bike models',
+    description:
+      'Your cycling paradise where you will find a huge selection of the best bike models',
     stack: ['HTML', 'CSS'],
     sourceCode: 'https://github.com/A1eeex/layout_landing-page/tree/develop',
     livePreview: 'https://a1eeex.github.io/layout_landing-page/',

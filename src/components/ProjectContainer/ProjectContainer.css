@@ -6,9 +6,25 @@
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
 }
+
 .project_img {
   margin-bottom: 20px;
 }
+
+.todos_1 {
+  height: 300px;
+  width: 100%;
+  background-image: url('../../img/1.todos.png');
+  background-color: #cccccc00;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.todos_1:hover {
+  background-image: url('../../img/2.todos.png');
+}
+
 .apple_gadgets {
   height: 300px;
   width: 100%;
@@ -18,9 +34,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .apple_gadgets:hover {
   background-image: url('../../img/2.AppleGadgets.png');
 }
+
 .rehabilitacja_praktika {
   height: 300px;
   width: 100%;
@@ -30,6 +48,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .rehabilitacja_praktika:hover {
   background-image: url('../../img/2rehabilitacja.png');
 }
